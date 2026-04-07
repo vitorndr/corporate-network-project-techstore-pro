@@ -95,7 +95,7 @@ corporate-network-project-techstore-pro/
 │   └── Corporate Network Project – TechStore Pro.pkt
 │
 └── images/
-    └── topology.png
+    └── TechStoreProTopology.png
 ```
 
 ---
