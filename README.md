@@ -26,13 +26,13 @@ Each department operates within its own VLAN to ensure security and proper netwo
 
 ## Key Features
 
-* 🔹 VLAN segmentation for network isolation
-* 🔹 Inter-VLAN routing (Router-on-a-Stick)
-* 🔹 DHCP for automatic IP address assignment
-* 🔹 ACLs for traffic control and security
-* 🔹 NAT (PAT) for internet access
-* 🔹 DNAT (Port Forwarding) for external access to internal services
-* 🔹 Troubleshooting and validation using CLI commands
+* VLAN segmentation for network isolation
+* Inter-VLAN routing (Router-on-a-Stick)
+* DHCP for automatic IP address assignment
+* ACLs for traffic control and security
+* NAT (PAT) for internet access
+* DNAT (Port Forwarding) for external access to internal services
+* Troubleshooting and validation using CLI commands
 
 ---
 
@@ -71,7 +71,7 @@ The following commands were used to validate and troubleshoot the network:
 
 ## Network Topology
 
-![topology](topology.png)
+![topology](images/topology.png)
 
 ---
 
