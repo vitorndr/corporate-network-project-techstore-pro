@@ -71,7 +71,7 @@ The following commands were used to validate and troubleshoot the network:
 
 ## Network Topology
 
-![topology](images/topology.png)
+![topology](images/Corporate Network Project – TechStore Pro.png)
 
 ---
 
