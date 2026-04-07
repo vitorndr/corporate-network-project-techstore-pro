@@ -75,7 +75,7 @@ The following commands were used to validate and troubleshoot the network:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Cisco Packet Tracer
 * Networking (TCP/IP, VLANs, Routing, NAT, ACL)
